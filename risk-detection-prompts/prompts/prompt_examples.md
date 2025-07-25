@@ -93,7 +93,7 @@ Note: The bullet points are examples, not an exhaustive list. You should categor
 
 Output Format:
 
-Class: <Class>, Family: <Family>, Comment: <Your brief risk comment>, "<Exact quote from the news>", <Short justification>
+Class: &lt;Class&gt;, Family: &lt;Family&gt;, Comment: &lt;Your brief risk comment&gt;, "&lt;Exact quote from the news&gt;", &lt;Short justification&gt;
 
 ### Examples:
 
@@ -269,7 +269,7 @@ Note: The bullet points are examples, not an exhaustive list. You should categor
 
 Output Format:
 
-Class: <Class>, Family: <Family>, Comment: <Your brief risk comment>, "<Exact quote from the news>", <Short justification>
+Class: &lt;Class&gt;, Family: &lt;Family&gt;, Comment: &lt;Your brief risk comment&gt;, "&lt;Exact quote from the news&gt;", &lt;Short justification&gt;
 
 ### Examples:
 
@@ -439,7 +439,7 @@ Note: The bullet points are examples, not an exhaustive list. You should categor
 
 Output Format:
 
-Class: <Class>, Family: <Family>, Comment: <Your brief risk comment>, "<Exact quote from the news>", <Short justification>
+Class: &lt;Class&gt;, Family: &lt;Family&gt;, Comment: &lt;Your brief risk comment&gt;, "&lt;Exact quote from the news&gt;", &lt;Short justification&gt;
 
 ### Examples:
 
@@ -517,7 +517,7 @@ News: <h> ThyssenKrupp gets rid of Brazilian steel operations ThyssenKrupp has a
 
 True Annotations:
 
-Class: , Family: , comment: , No risk, the news is talking about selling Brazilian steel factory and going back to profit from their elevator sales.
+Class: &lt;Class&gt;, Family: &lt;Family&gt;, Comment: &lt;Your brief risk comment&gt;, "&lt;Exact quote from the news&gt;", &lt;Short justification&gt;
 
 Model-Generated Annotations:
 
@@ -621,7 +621,7 @@ Note: The bullet points are examples, not an exhaustive list. You should categor
 
 Output Format:
 
-Class: <Class>, Family: <Family>, Comment: <Your brief risk comment>, "<Exact quote from the news>", <Short justification>
+Class: &lt;Class&gt;, Family: &lt;Family&gt;, Comment: &lt;Your brief risk comment&gt;, "&lt;Exact quote from the news&gt;", &lt;Short justification&gt;
 
 ### Examples:
 
@@ -821,7 +821,8 @@ Note: The bullet points are examples, not an exhaustive list. You should categor
 
 Output Format:
 
-Class: <Class>, Family: <Family>, Comment: <Your brief risk comment>, "<Exact quote from the news>", <Short justification>
+Class: &lt;Class&gt;, Family: &lt;Family&gt;, Comment: &lt;Your brief risk comment&gt;, "&lt;Exact quote from the news&gt;", &lt;Short justification&gt;
+
 
 ### Examples:
 
