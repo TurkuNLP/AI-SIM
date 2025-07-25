@@ -1,4 +1,4 @@
-# Prompt Examples for Risk Detection in E-commerce with LLMs
+# Dataset & Prompt Examples for Risk Detection in E-commerce with LLMs
 
 This repository contains the dataset and a set of prompt examples used in the paper:
 
