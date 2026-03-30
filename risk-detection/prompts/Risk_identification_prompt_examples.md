@@ -1,4 +1,4 @@
-# Prompt Examples for Risk Detection with LLMs
+# Prompt Examples for Risk Detection with LLMs: gpt-4.1-2025-04-14
 
 
 =============================================================================
